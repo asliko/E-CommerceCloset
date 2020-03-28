@@ -1,0 +1,701 @@
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.I.resources
+C:\Users\Section1\Desktop\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.I.resources
+C:\Users\hicretpc\Desktop\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.I.resources
+E:\17.03\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.I.resources
+C:\Users\hicretpc\Desktop\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.I.resources
+E:\Yeni klasör (3)\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ilk.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ilkk.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.hhj.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.uc.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ilkk1.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ilkkk.resources
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Section1\Desktop\Ecommerce\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ı.resources
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.IIIIIII.resources
+C:\Users\hicretpc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.Y.resources
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll.config
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\E-CommerceCloset.pdb
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.exe.config
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csc.rsp
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.exe.config
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\csi.rsp
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.AppContext.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Console.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Compression.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.IO.Pipes.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Claims.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.ValueTuple.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.exe.config
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\vbc.rsp
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\WebGrease.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\EntityFramework.SqlServer.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Helpers.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Mvc.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Optimization.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.Razor.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Deployment.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Web.WebPages.Razor.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Newtonsoft.Json.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Antlr3.Runtime.pdb
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csprojAssemblyReference.cache
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CoreCompileInputs.cache
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.CopyComplete
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.dll
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.pdb
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E_CommerceCloset.Migrations.ilk.resources
+C:\Users\cscdsc\Desktop\Güncel Proje\E-CommerceCloset\E-CommerceCloset\obj\Debug\E-CommerceCloset.csproj.GenerateResource.cache

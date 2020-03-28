@@ -1,0 +1,58 @@
+﻿@model List <E_CommerceCloset.Models.Classes.Product>
+ <!-- Product -->
+@{ 
+    var category = (E_CommerceCloset.Models.Classes.Categories)ViewBag.category;
+}
+
+@{
+    foreach (var item in Model)
+    {
+    <div class="col-xl-4 col-md-6">
+        <div class="product">
+            <div class="product_image"><img src="~/Content/productPhoto/@item.Image" alt="" width="350" height="390"></div>
+            <div class="product_content">
+                <div class="product_info d-flex flex-row align-items-start justify-content-start">
+                    <div>
+                        <div>
+                            <div class="product_name"><a href="product.html"> @Html.DisplayFor(modelItem => item.Name)</a></div>
+                            <div class="product_category">In <a href="category.html">@Html.DisplayFor(modelItem => item.ProductType)</a></div>
+                        </div>
+                    </div>
+                    <div class="ml-auto text-right">
+                        <div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
+                        <div class="product_price text-right">@Html.DisplayFor(modelItem => item.Price)</div>
+                    </div>
+                </div>
+
+
+                <div class="product_buttons">
+                    <div class="text-right d-flex flex-row align-items-start justify-content-start">
+
+                        <div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
+                            <div>
+
+                                <div>
+                                    <a href="/Home/ProductDetail">
+
+                                        <img src="~/Content/images/heart_2.svg" class="svg" alt="">
+
+                                    </a>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+
+
+                        <a href="#" data-pID="@item.ProductID" class="btn btn-default addBasket"><i class="fas fa-shopping-basket"></i>Sepete At</a>
+                        <div><div><img src="~/Content/images/cart.svg" class="svg" alt=""><div>+</div></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+}

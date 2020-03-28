@@ -1,0 +1,143 @@
+﻿@model IEnumerable<E_CommerceCloset.Models.ViewModel.CategorySizeViewModel>
+
+
+<div class="product">
+    @foreach (var item in Model)
+    {
+        <div class="container">
+            <div class="row">
+
+                <!-- Product Image -->
+                <div class="col-lg-6">
+                    <div class="product_image_slider_container">
+                        <div id="slider" class="flexslider">
+                            <ul class="slides">
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                                <li>
+                                    <img src="~/Content/productPhoto/@item.Image2" />
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="carousel_container">
+                            <div id="carousel" class="flexslider">
+                                <ul class="slides">
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                    <li>
+                                        <div><img src="~/Content/productPhoto/@item.Image2" /></div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="fs_prev fs_nav disabled"><i class="fa fa-chevron-up" aria-hidden="true"></i></div>
+                            <div class="fs_next fs_nav"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Product Info -->
+                <div class="col-lg-6 product_col">
+                    <div class="product_info">
+                        <div class="product_name">@Html.DisplayFor(modelItem => item.GenderName)</div>
+                        <div class="product_name">@Html.DisplayFor(modelItem => item.Name)</div>
+
+                        <div class="product_category">In <a href="category.html">@Html.DisplayFor(modelItem => item.CategoryName)</a></div>
+                        <div class="product_rating_container d-flex flex-row align-items-center justify-content-start">
+                            <div class="rating_r rating_r_4 product_rating"><i></i><i></i><i></i><i></i><i></i></div>
+                            <div class="product_reviews">@Html.DisplayFor(modelItem => item.Brand)</div>
+                            <div class="product_reviews_link"><a href="#"></a></div>
+                        </div>
+                        <div class="product_price">@Html.DisplayFor(modelItem => item.Price)$</div>
+                        <div class="product_size">
+                            <div class="product_size_title">Select Size</div>
+                            <ul class="d-flex flex-row align-items-start justify-content-start">
+
+                                <li>
+                                    <input type="radio" id="radio_2" name="product_radio" class="regular_radio radio_2" checked>
+                                    <label for="radio_2">@Html.DisplayFor(modelItem => item.SizeName)</label>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="product_text">
+                            @Html.DisplayFor(modelItem => item.Description)
+                        </div>
+
+                        <div class="product_buttons">
+                            <div class="text-right d-flex flex-row align-items-start justify-content-start">
+
+                                <div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
+                                    <div><div><img src="~/Content/images/cart.svg" class="svg" alt=""><div>+</div></div></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>}
+</div>
+
+<!-- Boxes -->
+
+<div class="boxes">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="box d-flex flex-row align-items-center justify-content-start">
+                    <div class="mt-auto"><div class="box_image"><img src="images/boxes_1.png" alt=""></div></div>
+                    <div class="box_content">
+                        <div class="box_title">Size Guide</div>
+                        <div class="box_text">Phasellus sit amet nunc eros sed nec tellus.</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 box_col">
+                <div class="box d-flex flex-row align-items-center justify-content-start">
+                    <div class="mt-auto"><div class="box_image"><img src="images/boxes_2.png" alt=""></div></div>
+                    <div class="box_content">
+                        <div class="box_title">Shipping</div>
+                        <div class="box_text">Phasellus sit amet nunc eros sed nec tellus.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

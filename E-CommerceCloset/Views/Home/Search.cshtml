@@ -1,0 +1,22 @@
+﻿@model IEnumerable<E_CommerceCloset.Models.Classes.Product>
+<h1 class="my-4"></h1>
+<h5><b>Searched Item:</b>@ViewBag.val</h5>
+<h5>
+    @ViewBag.NoRecord
+</h5>
+
+
+@foreach (var product in Model)
+{
+    <div class="card mb-4">
+        <img class="card-img-top" src="~/Content/productPhoto/@product.Image" alt="@product.ProductType">
+        <div class="card-body text-justify">
+            <h2 class="card-title">Product Type:@product.ProductType</h2>
+            <h2 class="card-title">Name:@product.Name</h2>
+            <h2 class="card-title">Brand:@product.Brand</h2>
+
+        </div>
+
+    </div>
+}
+

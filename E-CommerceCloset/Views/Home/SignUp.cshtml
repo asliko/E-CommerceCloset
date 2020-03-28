@@ -1,0 +1,107 @@
+﻿@model E_CommerceCloset.Models.ViewModel.UserModel
+
+<h1 class="my-4">
+
+    New Member
+</h1>
+
+<div class="row">
+    <div class=col-md-6>
+
+        @using (Html.BeginForm("SignUp", "Home",
+             FormMethod.Post, new { enctype = "multipart/form-data" }))
+
+        {
+            @Html.LabelFor(m => m.Name)
+            @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Name, null, new { @class = "text-danger" })
+            <br />
+            @Html.LabelFor(m => m.LastName)
+            @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.LastName, null, new { @class = "text-danger" })
+            <br />
+            @Html.LabelFor(m => m.Telephone)
+            @Html.TextBoxFor(m => m.Telephone, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Telephone, null, new { @class = "text-danger" })
+            <br />
+            @Html.LabelFor(m => m.TCKN)
+            @Html.TextBoxFor(m => m.TCKN, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.TCKN, null, new { @class = "text-danger" })
+            <br />
+
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email, null, new { @class = "text-danger" })
+            <br />
+
+
+            @Html.LabelFor(m => m.Password)
+            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Password, null, new { @class = "text-danger" })
+            <br />
+
+            @Html.LabelFor(m => m.ImagePath)
+            @Html.TextBoxFor(m => m.ImagePath, new { type = "file", @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email, null, new { @class = "text-danger" })
+            <br />
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.IsActive, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-5">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.IsActive)
+                        @Html.ValidationMessageFor(model => model.IsActive, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.IsAdmin, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-5">
+                    <div class="checkbox">
+                        @Html.EditorFor(model => model.IsAdmin)
+                        @Html.ValidationMessageFor(model => model.IsAdmin, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </div>
+
+
+            <input type="submit" value="Sign Up" class="btn btn-success" />
+            @Html.ActionLink("Login", "SignIn", null, new { @class = "btn btn-primary" })
+        }
+
+        <br />
+
+        @if (ViewBag.Error != null)
+        {
+            <div class="alert alert-danger">@ViewBag.Error</div>
+        }
+    </div>
+    <div class="col-md-6">
+        <img src="" id="UserImage" class="img-thumbnail" />
+    </div>
+
+</div>
+
+@section scripts {
+    <script>
+        $("#ImagePath").change(function()
+        {
+
+        readURL(this);
+        });
+        function readURL(input) {
+        if(input.files && input.files[0]){
+
+        var reader = new FileReader();
+        reader.onload=function(e){
+        $("#UserImage").attr("src",e.target.result);
+
+        }
+        reader.readAsDataURL(input.files[0]);
+        }
+        }
+    </script>
+
+
+}

@@ -1,0 +1,115 @@
+﻿@model IEnumerable<E_CommerceCloset.Models.ViewModel.CategorySizeViewModel>
+
+@*<p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table">
+
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ProductType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Brand)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Color)
+                </td>
+
+
+                <td></td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                </td>
+            </tr>
+        }
+
+    </table>*@
+
+
+<div class="row products_row">
+
+    <!-- Product -->
+    @foreach (var item in Model)
+    {
+        <div class="col-xl-4 col-md-6">
+            <div class="product">
+                <div class="product_image"><img src="~/Content/productPhoto/@item.Image2" alt="" width="350" height="390"></div>
+                <div class="product_content">
+                    <div class="product_info d-flex flex-row align-items-start justify-content-start">
+                        <div>
+                            <div>
+                                <div class="product_name"><a href="product.html"> @Html.DisplayFor(modelItem => item.Name)</a></div>
+                                <div class="product_category">In <a href="category.html">@Html.DisplayFor(modelItem => item.CategoryName)</a></div>
+                            </div>
+                        </div>
+                        <div class="ml-auto text-right">
+                            <div class="rating_r rating_r_4 home_item_rating"><i></i><i></i><i></i><i></i><i></i></div>
+                            <div class="product_price text-right">@Html.DisplayFor(modelItem => item.Price)</div>
+                        </div>
+                    </div>
+
+
+                    <div class="product_buttons">
+                        <div class="text-right d-flex flex-row align-items-start justify-content-start">
+
+                            <div class="product_button product_fav text-center d-flex flex-column align-items-center justify-content-center">
+                                <div>
+
+                                    <div>
+                                        <a href="/Home/ProductDetail">
+
+                                            <img src="~/Content/images/heart_2.svg" class="svg" alt="">
+
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+                            <div>
+                                <a href="/Basket/Cart">
+                                    <div class="product_button product_cart text-center d-flex flex-column align-items-center justify-content-center">
+                                       <div><div><img src="~/Content/images/cart.svg" class="svg" alt=""><div>+</div></div></div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+      
+    }
+
+
+
+@section script{
+    <script type="text/javascript">
+
+ 
+
+            $(".addBasket").on("click", function () {
+                var pid = $(this).attr("data-pID");
+                $.post("/Basket/AddProduct?productID=" + pid + "&quantity=1", function (data) {
+                   
+                });
+            return false;
+        });
+     
+    </script>
+
+}
